@@ -19,8 +19,9 @@ This interactive demo showcases GenMentor’s core functionalities, including:
 Additional resources will be made available after the review process, pending internal approval by Microsoft. Stay tuned for updates!
 
 Planned releases include:
-[] Goal-to-Skill Dataset: A curated dataset for fine-tuning LLMs to identify skill requirements.
-[] LLM Agent Prompts: Detailed prompts enabling multi-agent collaboration within the framework.
-[] ... and more!
+
+- [ ] Goal-to-Skill Dataset: A curated dataset for fine-tuning LLMs to identify skill requirements.
+- [ ] LLM Agent Prompts: Detailed prompts enabling multi-agent collaboration within the framework.
+- [ ] ... and more!
 
 We appreciate your patience and understanding as we work through the necessary review process.
