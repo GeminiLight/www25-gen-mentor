@@ -2,6 +2,10 @@
 
 GenMentor, a large language model (LLM)-powered multi-agent framework designed for goal-oriented learning in Intelligent Tutoring Systems (ITS). This framework emphasizes personalization, adaptive learning, and goal-aligned content delivery, making it a robust solution for professional and lifelong learning scenarios.
 
+**Typo Correction**
+
+We would like to apologize for the typographical errors in the original submission. In Section 5.2.4 and Figure 4, the variations of the GenMentor should be "**w/o Refinement**" instead of "w/o Exploration".
+
 ## 🚀 Demo Version of Web Application
 
 Welcome to explore the demo version of the GenMentor web application:
