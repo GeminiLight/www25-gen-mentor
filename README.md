@@ -20,11 +20,7 @@ This interactive demo showcases GenMentor’s core functionalities, including:
 
 You could also watch the demo video for a quick overview:
 
-<div align="center">
-  <video width="1000px" controls>
-    <source src="./resources/GenMentor-Demo.mp4" type="video/mp4">
-  </video>
-</div>
+[GenMentor Demo Video](./resources/GenMnetor-Demo.mp4)
 
 ## 📅 Upcoming Resources
 
