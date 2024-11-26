@@ -20,7 +20,8 @@ This interactive demo showcases GenMentor’s core functionalities, including:
 
 You could also watch the demo video for a quick overview:
 
-[GenMentor Demo Video](./resources/GenMnetor-Demo.mp4)
+<video src="./resources/GenMnetor-Demo.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ## 📅 Upcoming Resources
 
