@@ -18,10 +18,10 @@ This interactive demo showcases GenMentor’s core functionalities, including:
 - Adaptive Learner Modeling: Capture learner progress and preferences.
 - Personalized Content Delivery: Generate tailored learning resources.
 
-You could also watch the demo video for a quick overview:
+You could also watch the demo video for a quick overview (click the image below):
 
-<video src="./resources/GenMnetor-Demo.mp4" controls="controls" style="max-width: 100%;">
-</video>
+[![Video Preview](https://img.youtube.com/vi/vTdtGZop-Zc/0.jpg)](https://youtu.be/vTdtGZop-Zc)
+
 
 ## 📅 Upcoming Resources
 
