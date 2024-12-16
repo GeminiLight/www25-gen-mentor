@@ -22,6 +22,7 @@ You could also watch the demo video for a quick overview (click the image below)
 
 [![Video Preview](https://img.youtube.com/vi/vTdtGZop-Zc/0.jpg)](https://youtu.be/vTdtGZop-Zc)
 
+## 🤖 Agent Prompts
 
 ## 📅 Upcoming Resources
 
@@ -30,7 +31,6 @@ Additional resources will be made available after the review process, pending in
 Planned releases include:
 
 - [ ] Goal-to-Skill Dataset: A curated dataset for fine-tuning LLMs to identify skill requirements.
-- [ ] LLM Agent Prompts: Detailed prompts enabling multi-agent collaboration within the framework.
 - [ ] ... and more!
 
 We appreciate your patience and understanding as we work through the necessary review process.
