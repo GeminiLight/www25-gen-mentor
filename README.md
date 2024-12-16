@@ -24,6 +24,11 @@ You could also watch the demo video for a quick overview (click the image below)
 
 ## 🤖 Agent Prompts
 
+- Skill Gap Identifier (`prompts/skill_gap_identification`)
+- Adaptive Learner Modeler (`prompts/adaptive_learner_modeling`)
+- Learning Path Scheduler (`prompts/learning_path_scheduling`)
+- Tailored Content Generator (`prompts/tailored_content_creation`)
+
 ## 📅 Upcoming Resources
 
 Additional resources will be made available after the review process, pending internal approval by Microsoft. Stay tuned for updates!
